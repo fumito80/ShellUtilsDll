@@ -1,0 +1,24 @@
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEOS 0x4
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+    BLOCK "040904E4"
+    {
+        VALUE "FileVersion", "1.0.0.0\0"
+        VALUE "ProductVersion", "1.0.0.0\0"
+        VALUE "CompanyName", "\0"
+        VALUE "ProductName", "Shell Utilities Plugin\0"
+        VALUE "LegalCopyright", "Copyright takadaZ\0"
+        VALUE "FileDescription", "Shell Utilities Plugin\0"
+        VALUE "MIMEType", "application/x-shellutils\0"
+    }
+}
+BLOCK "VarFileInfo"
+{
+    VALUE "Translation", 0x0409 0x04E4
+}
+}
